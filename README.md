@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kimp0t
+- 🌱 I’m currently learning computer programming
+- 📫 Contact by email: kimpatacsilgalima@gmail.com
